@@ -1,0 +1,8 @@
+{
+  "name": "Fahim Tuition Management",
+  "description": "A professional offline tuition management system for private tutors, featuring student management, attendance, fee tracking, exam results, and ID card generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
